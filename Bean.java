@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Bean  implements Serializable {
 
 	 /**
-	 * 
+	 * hahahahahahahah
 	 */
 	private static final long serialVersionUID = 1L;
 	private String name;
