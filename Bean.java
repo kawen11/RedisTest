@@ -6,6 +6,7 @@ public class Bean  implements Serializable {
 
 	 /**
 	 * hahahahahahahah
+	 * test
 	 */
 	private static final long serialVersionUID = 1L;
 	private String name;
